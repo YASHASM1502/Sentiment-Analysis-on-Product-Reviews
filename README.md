@@ -45,4 +45,11 @@ This is a Flask web application for analyzing sentiment in Flipkart product revi
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+Team Members
+1. Yashas M
+2. Aishwarya Bharathwaj
+3. Darshan H.P
+4. Vishwa Vidhatha S
+
 ---
